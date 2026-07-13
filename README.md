@@ -11,33 +11,71 @@
 
 </div>
 
-## 🧑‍💻 Who I Am
+# Hi there, I'm Sahil Ladke 👋
 
-```typescript
-const sahilLadke = {
-  title: "B.Tech Student — Electronics & Telecommunication Engineering",
-  stack: {
-    languages: ["Python", "Java (Basic)"],
-    embedded: ["Arduino Nano", "ESP32", "Microcontrollers"],
-    iot: ["Sensor Integration", "Real-Time Monitoring", "Data Acquisition"],
-    tools: ["Git", "GitHub", "VS Code"],
-  },
-  launchedProjects: [
-    "Smart Medical Kit (IoT-Based Health Monitoring)",
-    "Hand Gesture to Speech Converter",
-    "Multimodal AI Learning Assistant",
-    "Bhasha Bridge AI Translator",
-  ],
-  certifications: [
-    "Deloitte Data Analytics Virtual Experience Certificate",
-    "Machine Learning Fundamentals",
-    "GenAI Powered Data Analytics Job Simulation - Forage",
-    "Data Visualization - Forage",
-  ],
-  status: "Co-Head, Institution's Innovation Council (IIC), ETC Department",
-  openTo: ["Embedded Systems Roles", "IoT Development", "Internships"],
-};
-```
+### B.Tech Student | Electronics & Telecommunication Engineering
+
+I am passionate about **Embedded Systems, IoT, Artificial Intelligence, and Machine Learning**. I enjoy building innovative solutions that combine hardware and software to solve real-world problems. I am continuously learning new technologies and looking for opportunities to contribute to impactful projects.
+
+---
+
+## 🚀 Tech Stack
+
+### Programming Languages
+
+* Python
+* Java (Basic)
+
+### Embedded Systems & IoT
+
+* Arduino Nano
+* ESP32
+* Microcontrollers
+* Sensor Integration
+* Real-Time Monitoring
+* Data Acquisition
+
+### Tools & Technologies
+
+* Git
+* GitHub
+* VS Code
+
+---
+
+## 📂 Featured Projects
+
+* 🩺 **Smart Medical Kit** – IoT-based health monitoring system for real-time patient data.
+* 🤟 **Hand Gesture to Speech Converter** – Converts hand gestures into speech using flex sensors and embedded systems.
+* 🤖 **Multimodal AI Learning Assistant** – AI-powered platform that generates notes, quizzes, flashcards, and summaries from multiple input formats.
+* 🌐 **Bhasha Bridge AI Translator** – AI-powered multilingual translator designed for Indian languages and regional communication.
+
+---
+
+## 📜 Certifications
+
+* Deloitte Data Analytics Virtual Experience
+* Machine Learning Fundamentals
+* GenAI Powered Data Analytics Job Simulation – Forage
+* Data Visualization Job Simulation – Forage
+
+---
+
+## 🏆 Leadership
+
+**Co-Head**
+Institution's Innovation Council (IIC)
+Electronics & Telecommunication Engineering Department
+
+---
+
+## 🎯 Currently Looking For
+
+* Embedded Systems Internships
+* IoT Development Roles
+* AI & Machine Learning Projects
+* Open Source Contributions
+  ---
 
 ## 🚀 Featured Projects
 
