@@ -1,13 +1,25 @@
 <div align="center">
 
+<img src="./assets/github-banner.png" width="100%" alt="Sahil Ladke GitHub Banner" />
+
+<br><br>
+
 <img src="https://capsule-render.com/api?type=waving&color=7dd3fc&height=200&section=header&text=Sahil%20Ladke&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35" />
+
+<br>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7DD3FC&center=true&vCenter=true&width=600&lines=Electronics+%26+Telecommunication+Engineer;Embedded+Systems+%2B+IoT+Enthusiast;Building+AI-Powered+Applications;Arduino+%7C+ESP32+%7C+Python+%7C+C%2FC%2B%2B" />
 
-![Open to Work](https://img.shields.io/badge/Open%20to%20Work-7dd3fc?style=for-the-badge&logo=briefcase&logoColor=white)
+<br><br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=sailadke19-cmd&color=7dd3fc&style=flat-square)
-![Followers](https://img.shields.io/github/followers/sailadke19-cmd?color=7dd3fc&style=flat-square&label=Followers)
+<img src="https://img.shields.io/badge/Open%20to%20Work-7dd3fc?style=for-the-badge&logo=briefcase&logoColor=white" />
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=sailadke19-cmd&color=7dd3fc&style=flat-square" />
+<img src="https://img.shields.io/github/followers/sailadke19-cmd?color=7dd3fc&style=flat-square&label=Followers" />
+
+</div>
 
 </div>
 
